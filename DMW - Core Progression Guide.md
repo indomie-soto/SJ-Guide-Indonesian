@@ -17,7 +17,7 @@ As partially mentioned above, DMW introduces a rudimentary **Class System**. All
 - Auto Attack DPS use mainly auto attacks to dish out damage
 - Tanks have high HP pools and high Defense to take the heavy hits mid to endgame bosses dish out. Conversely, they dish out much less damage compared to DPS classes.
 	- Added bonus, they do *not* gain Basic Attribute from gear. Instead, for every 1K Defense, they gain 1%. Similarly, for every 10k HP, they gain 1%.
-- Support Digimon fall into one of the two DPS classes. However, they have an effect on their F3 that gives a damage boost to the DPS class they fall into. Conversely, they deal less damage overall compared to an equally strong DPS.
+- Support Digimon fall into one of the two DPS classes. However, they have an effect on their F3 that gives a damage boost to the DPS class they fall into. Conversely, they deal less damage overall compared to an equally ranked DPS.
 	- As an exception, UlforceVeedramon Future Mode has a defensive F3 and F4. He also can be used as a SK DPS or an AA DPS, depending on the user's gear.
 
 Now that you (hopefully) understand the different classes, we can go over the pros and cons of the two DPS classes:
@@ -32,9 +32,9 @@ And with that comes the final question: You want to play as X class, so what tam
 
 If you decide to play as a SK DPS, unfortunately your early game tamer doesn't matter. However, I recommend Yoshino due to her tamer skill (Protection) being a 'Get-Out-Of-Big-Damage-Free' Card and may prove useful. As a starter, you should choose Falcomon. 
 
-If you decide to run as an AA DPS, you should run Keenan Crier as your first Tamer. His Tamer Skill, "Shock", gives a Critical Damage increase that'll prove strong as an early game AA. For your digimon partner, you'll want to pick either Agumon.
+If you decide to run as an AA DPS, you should run Keenan Crier as your first Tamer. His Tamer Skill, "Shock", gives a Critical Damage increase that'll prove strong as an early game AA. For your digimon partner, you'll want to pick Agumon.
 
-If you're curious about the reasoning, you do not need a Data SSS for a lot of the early game content or even a majority of our currently released late game content.
+If you're curious about the reasoning, you do not need a Data SSS for a lot of the early game content or even a majority of our currently released late game content. However, a Vaccine SSS is indispensable for early game.
 
 Once you've selected your tamer and partner, you're officially ready to start your journey.
 # Pre-Early Game
@@ -119,7 +119,7 @@ Instead of continuing the questline, first you should head to DATS Center. You c
 - Unlock the DMW Digivice you were given and equip it.
 	- For the time being, it's not at full power yet. Later on, we will get into Accessory Enhancement proper and get it to full power.
 - If you haven't already, open up the Dungeon Ticket Box received from the tutorial. For each of these tickets, right-click to "use" them. This will move them to the Ticket Inventory. Access it by clicking the third button from the left in the bottom right corner (If you hover over it, it should say "DMW").
-	- The vast majority of Dungeon Tickets can go into this inventory. Also, there is a function to claim all ticket quests across the entire game, if you have them unlocked, without having to individually claim the quests from each NPC. Simply open the Ticket Inventory and click the "Claim Daily Tickets" button.
+	- The vast majority of Dungeon Tickets can go into this inventory. Also, there is a function to claim all unlocked ticket quests across the entire game, without having to individually claim the quests from each NPC. Simply open the Ticket Inventory and click the "Claim Daily Tickets" button.
 - Scan the Random BM Package and hatch the DigiEgg you were given.
 	- If you're lucky, the BM package you receive will help you achieve one of the various decks for your class. If you aren't aware of what decks are, keep reading on to find out.
 	- Do not worry about leveling this digimon at the moment. Focus on your starter digimon and your journey digimon.
@@ -131,7 +131,7 @@ Now that you've completed the above, feel free to return to DMW Village via the 
 	- Data (DA) is unaffected by a Vaccine (VA); DA beats VA
 	- Outside of the Attribute trifecta is Unknown (Un) and No Attribute (No). Unknown beats everything while No Attribute is weak to everything
 - Having Attribute Advantage increases your damage by 50%, enemy auto attacks deal 20% less damage, and you gain damage from the 'Basic Attribute' stat on gear. Without Advantage, your damage is in neutral and you do not gain the damage boost from the "Basic Attribute" stat.
-- Elemental Advantage, which a slightly damage increase, isn't so significant that it should be focused on.
+- Elemental Advantage, while a slight damage increase, isn't so significant that it should be focused on.
 - You can also increase the experience of both the Attribute and Element (The empty bar underneath the Attribute and Element in the Digimon stat window) for that particular evolution of your digimon via a task based on the Attribute:
 	- No: It cannot be raised.
 	- Un: Kill any digimon. The Attribute EXP is automatically 100%, but the Element EXP still has to be raised.
@@ -159,19 +159,19 @@ Several things to make note of as you're questing:
 		- Even if a Digimon later gets a SSS or SSS+ evolution, it is entirely possible to swap their size data with a newly hatched 5/5 using the [Data Exchange system](https://digitalmastersworld.wiki.gg/wiki/Data_Exchange)
 
 While you can continue with any of the 3 questlines, here is a recommended order:
-- Continue with the File Island Questline that Elecmon teleports you to start at the Village of the Beginning. These quests give generally high experience that'll push either your digimon to 100+ quite easily. Hold off on progressing to Server Continent, for now.
+- Continue with the File Island Questline that Elecmon teleports you to start at the Village of the Beginning. These quests give generally high experience that'll push your starter digimon to 100+ quite easily. Hold off on progressing to Server Continent, for now.
 	- Make an active effort to complete the Novice Challenge quests as you're progressing. By the end of File Island, you should have up to "Koromon's Challenge - 3" completed.
 	- Once you've completed Koromon's Challenge - 1, you'll be given a Novice Clothes Box, a Novice Smart School Uniform, and other items. Unless you are leveling or minmaxing your damage, the Novice Smart School Uniform (which is permanent) is more than sufficient to replace your other costumes once they expire. The Novice Clothes set are also very useful as you will not have any other meaningful set of clothes yet.
-- Backtrack and complete the Glacier Area questline started by "Miki's Summons". While being one of the largest sets of quests, the area completion rewards make it worth it. Once you fully complete it, again back track and head to the Western Area.
+- Backtrack and complete the Glacier Area questline started by "Miki's Summons". While being one of the largest sets of quests, the area completion rewards make it worth it. Once you fully complete it, again backtrack and head to the Western Area.
 	- As mentioned before, make sure to make an active effort to complete the Novice Challenge quests as you're progressing. For Tsunomon's Challenge - 2, you will have to travel out of your way to the Western Area's Dark Tower Wasteland.
 	- By the end of the Glacier Questline, you should have all of Tsunomon's quests complete and move onto Gabumon's. At this point, you should have at least 15 Challenge Coins.
-		- Head back to DMW Village and behind the Novice Challenge NPCs, you should find a Taichi NPC. Talk to him and exchange 15 Challenge Coins for the digiegg of the remaining partner digimon for your class in the DigiEgg Exchange. As a reminder:
-			- AA: Agumon and Lalamon
-			- SK: Falcomon and Gaomon
+		- Head back to DMW Village and behind the Novice Challenge NPCs, you should find a Taichi NPC. Talk to him and exchange 15 Challenge Coins for the digiegg of the remaining starter digimon for your class in the DigiEgg Exchange:
+			- AA: Lalamon
+			- SK: Gaomon
 - Start the Digimon Maze questline through the "Commander's Urgent Summon" quest and progress through the Digimon Maze. There are a lot of quests with repetitive tasks, so don't forget to take a break every now and again. If Maze is too much, it isn't a bad idea to skip ahead to Server Continent and come back to Maze to progress it further.
 	- Once you fully complete the Digimon Maze questline, you'll unlock the Gizumon Lab dungeon that will be accessible at the Digimon Maze Entrance. The dungeons rewards focus on enhancing Starter Digimon, dropping [Savers] DigiClones, Transcendence Chip Exchange Tickets, and Skill DigiCodes (This item will be explained later) among other items. At 20 successful runs, you can exchange the 'Sparkling Savers' DigiSoul items for a Starter Digimon SSS item.
 	- You should also take the time to run back to the PawnChessmon W NPC at DATS and grab the reward from both Glacier Area completion and Maze Completion: A Growth Fruit [Savers]. This will bump up your second starter to 125%, giving them access to Transcendence once you've got the materials.
-- If you haven't already, continue on from File island to the Server Continent questline. This questline is pretty straightforward and should be pretty easy to complete with a level 100+ Digimon. By the end of this questline, either your first starter or our journey digimon (potentially both) should be level 120 or close to.
+- If you haven't already, continue on from File island to the Server Continent questline. This questline is pretty straightforward and should be pretty easy to complete with a level 100+ Digimon. By the end of this questline, either your first starter or your journey digimon (potentially both) should be level 120 or close to.
 	- If you're still paying attention to the Novice Questline, you should be able to complete Koromon's Challenge - 4 and push onwards right up to Greymon's Challenge - 1.
 
 If you've been keeping up with the seals for your class and saving up your money, you should have 5T for Transcendence. Find an easy devil type digimon to farm Low Class Devil Data and collect 30 devil data to hatch the 2 5/5 Raremon DigiEggs from way earlier. Transcend your starter digimon then head back to Richard Sampson and clone their HP, You should be greeted with a nice pop-up on the top of the screen signaling that you've finally fully cloned your starter, making them entirely content-ready. For your journey Digimon, you can either buy the required Mid Class Dragon Transcendence ConvertChips from other players or the Cash Shop, or you can farm Low Class chips from non-Character Bound Mid Data craft at [Nanomon](https://digitalmastersworld.wiki.gg/wiki/Nanomon_(Item_Craft)#Transcendence_ConvertChip) at DATS or various dungeons in the game.
@@ -185,7 +185,7 @@ At this point in time you now have 2 options:
 		- Unfortunately, in order to complete the Versandi Terminal Questline, you will need to complete Royal Base (Normal). Do not feel compelled to complete the questline. Come back later once you have the stats.
 	- You can also continue from the Server Continent questline into the Odaiba questline and, afterwards, the Spiral Mountain questline.
 		- If you take this route, you will also be able to complete Gabumon's Challenge - 1 all the way to Garurumon's Challenge - 1
-		- Once you progress into the Spiral Mountain areas, you'll be able to farm the materials to craft the first level of the [Spiral Keyring](https://digitalmastersworld.wiki.gg/wiki/KeyRing), an equippable gear item that starts out weak but gets stronger with each upgrade. However, besides the first upgrade, the keyring requires materials from the Spiral Mountain dungeons, endgame content that you will not be ready for yet.
+		- Once you progress into the Spiral Mountain areas, you'll be able to farm the materials to craft the first level of the [Spiral Keyring](https://digitalmastersworld.wiki.gg/wiki/KeyRing), an equipable gear item that starts out weak but gets stronger with each upgrade. However, besides the first upgrade, the keyring requires materials from the Spiral Mountain dungeons, endgame content that you will not be ready for yet.
 - You can also opt to move into proper Early Game instead. While questing is important as you'll miss out on Area Completion rewards, you can also balance it with doing dungeons and keep yourself from being burned out.
 	- Before moving into Early Game proper, make sure you have the 'Omega' deck unlocked and active (as SK) or the 'Main Characters of the adventure' deck (for AA)
 
@@ -211,7 +211,7 @@ Before we establish what your progression should look like, there's are four unm
 			- Your non-expired (but used) rental skills can be found in the "Tamer Skill System" menu of the "Skill" tab of the Tamer stat window.
 		- Some non-rental and rental tamer skills stack with one another:
 			- For Example, Berserker and Enhanced/Ultimate Berserker can both be active on one digimon.
-			- While you can have an Enhanced/Reinforced Rental Skill and an Ultimate Rental Skill of the same kind active at the same time, they do not stack.
+			- While you can have an Enhanced/Reinforced Rental Skill and an Ultimate Rental Skill of the same kind equipped at the same time, they do not stack.
 				- For example, Enhanced Berserker and Ultimate Berserker *do not* stack and will overwrite one another if cast at the same time.
 	- Recommended Combinations for high DPS:
 		- For SK - Matt Passives, Enhanced/Ultimate Vigor, Reinforced/Ultimate Focus **OR** Reinforced/Ultimate Saikyou
@@ -258,7 +258,9 @@ Before we establish what your progression should look like, there's are four unm
 - They are split into 3 Groups: Offensive, Defensive and Support skills
 	- Offensive Skills can be sub-classed into 2 broad groups: "Rulers" and "Emperors"
 		- All Elements have a "Ruler" and an "Emperor" variation. For example, "Ruler of Darkness" only applies when the digimon using the skill is a Darkness-attribute digimon
-			- Attributes also have a "Ruler" and an "Emperor" skill, but the "Rulers" are instead called "Master", such as "Vaccine Master". Attribute Emperors are still "Emperors", such as "Vaccine Emperor"
+			- Attributes also have a "Ruler" and an "Emperor" skill, but the "Rulers" are instead called "Master", such as "Vaccine Master". Attribute Emperors are still "Emperors", such as "Vaccine Emperor".
+			- The Attribute Memory Skills are weaker compared to the Element Memory Skills
+				- For example, Ruler of Darkness Highest/Lv.4 is a 20% increase, while Vaccine Master Highest/Lv.4 is 15%.
 		- Rulers are Skill Damage increasing Memory Skills, while Emperors are Critical Damage increasing Memory Skills.
 			- Unfortunately for AA DPS, Emperors are not that good to use (at the time of this guide's writing) and should not be aimed for.
 		- Outside of the Rulers and Emperors, they also exists "Last Effort", but unfortunately due to the strict conditions of the Skill, it is a very situational Memory Skill to have and use.
@@ -287,9 +289,15 @@ Most bosses in the game follow a similar mechanical design, This is *not* 100% a
 - "Meteor": These are usually indicated by an orange circle that doesn't move with the player. They can vary with size, but generally disappear after the skill is cast.
 - "Green Circle": What occurs during this mech varies with each boss, however the indicator is that one (or more) small green circles will spawn around the boss. Aim to stand inside one of the green circle.
 - "Blue Circles": These are usually indicated by a large amount of giant blue circles spawning all around the boss. Avoid standing in the blue circles to avoid taking damage.
-- "Feel the Pain!": This mechanic is named after the text that normally accompanies it. Whoever is tanking the boss at that moment is attacked with a lightning that will chain to any nearby players, increasing the damage to every player hit. When this mech goes off, ensure you are all separated.
+- "Feel the Pain!": This mechanic is named after the text that normally accompanies it. Whoever is tanking the boss at that moment is attacked with a lightning bolt that will chain to any nearby players, increasing the damage to every player hit. When this mech goes off, ensure you are all separated.
 - "Omae wa moe shindeiru wo": This mechanic is named after the text that normally accompanies it. A reference to the Fist of the North Star anime, the boss dishes out an extremely high amount of undodgeable damage.
 - Tank Buster: This mechanic is indicated by a giant orange circle that looks similar to a clock. Anyone inside the circle gets hit for massive damage. Implied by the name, this mechanic is targeted towards the tanking player.
+- DPS Check: This mechanic often doesn't have any text indicators and usually starts at 10%. There are several variations:
+	- Tank-Stat Check - The Boss gains a large damage increase that takes out large chunks of the tanking player's HP. If the tank isn't strong enough, or the DPSes aren't strong enough, the team is wiped by auto attacks. The only time limit is the capabilities of the tank.
+	- Standard DPS Check - Typically, the boss will stop all mechanics and go inactive. If the Boss is not killed in time, it will kill the entire party at once.
+	- Minion DPS Check - Typically the boss summons one or more minions and gains heavy damage reduction and/or gives out a debuff on the party. 
+		- If you get a debuff, you will typically have to kill the right enemy to dispel the debuff, then kill the boss before the party is wiped.
+		- If the boss summons several minions, you must kill the minions and use the item they give you on the boss to kill it.
 
 ### Content Progression
 
@@ -342,11 +350,12 @@ Once you've acquired Zhuqaiomon/Qinglongmon gear at Semi-Perfect strength, you c
 		- You can make BDGH/SSS passes by using 100 Energy of Steel at the Renamon NPC in D-Terminal. Energy of Steel [Hard] can be farmed at any mob on the Minato City map of the Tokyo-Odaiba Area.
 	- [Descending Thunder God Hard](https://digitalmastersworld.wiki.gg/wiki/Descending_Thunder_God_(Hard_Mode))/[SSS](https://digitalmastersworld.wiki.gg/wiki/Descending_Thunder_God_(SSS)) (QDGH/SSS)
 		- You can make QDGH/SSS passes by using 100 Energy of Thunder God at the Renamon NPC in D-Terminal. Energy of Thunder God [Hard] can be farmed at any mob on the Odaiba map of the Tokyo-Odaiba Area.
-- Once you've acquired Radiant Holy Beast gear at Semi-Perfect, you should begin farming [Royal Base (Normal)](https://digitalmastersworld.wiki.gg/wiki/Royal_Base) for the Royal : X-Knight Bracelet.
+- Once you've acquired Radiant Holy Beast gear at Semi-Perfect, you should begin farming [Royal Base [Normal]](https://digitalmastersworld.wiki.gg/wiki/Royal_Base) (RBN) for the Royal : X-Knight Bracelet.
 	- This dungeon is not short by any means. It does take a decent amount of time.
 	- Assuming the final boss, Dexmon, drops 3 memories each time, you only need approximately 20 runs total to craft a Royal : X-Knight Bracelet, assuming you obtain a Yggdrasil's Records item within those 20 runs.
 	- It is highly recommended to take a Vaccine attribute digimon as the second and third boss rooms are only Virus attribute digimon. 
 	- As long as you are still using your Vaccine starter SSS, you will need X-Protector items otherwise you will be hit with the X-Program debuff. These are obtainable from some Sub Quests/Daily Quests in Versandi Terminal.
+	- You can craft RBN passes by using 100 Warp Energy at the Magnamon X NPC in Versandi Terminal. Warp Energy can be farmed at any mob on the Versandi Terminal map.
 
 Before you move onto Mid game, you should ensure that you have the accessories and decks:
 - Accessory-wise, Radiant Holy Beast Lv.5 gear and the Royal : X-Knight Bracelet, all semi-perfect.
@@ -369,10 +378,10 @@ Now that you've moved forward into Mid Game, you have two new tasks you can now 
 				- If you do not do this, you will get instantaneously killed by Apocalymon after a few seconds.
 		- Round 6 through 8 return to simple mechanics.
 		- Round 9, Mastemon, is pretty simple. She only has poison circles and a special mechanic at 50% and 30%.
-			- At 50%, she summons a LadyDevimon and an Angewomon mob. The LadyDevimon mob has extremely high HP and is unkillable, while the Angewomom mob is very weak and killable. Kill the Angewomom to receive an item that, when used on the LadyDevimon, instantly kills it.
+			- At 50%, she summons a LadyDevimon and an Angewomon mob. The LadyDevimon mob has extremely high HP and is unkillable, while the Angewomon mob is very weak and killable. Kill the Angewomon to receive an item that, when used on the LadyDevimon, instantly kills it.
 			- At 30%, she repeats the mechanic but summons 2 LadyDevimons/Angewomons.
 		- Round 10, Millenniummon, mainly casts different meteor circles and has a special mechanic at 30%
-			- At 30%, he will cast giant poison circles on each player. It is recommended to drop the poisons in each corner of the map to give enough space for second part of this mech.
+			- At 30%, he will cast giant poison circles on each player. It is recommended to drop the poisons in each corner of the map to give enough space for the second part of this mech.
 			- After he casts the poison, he will do 10 split-stack circles in a row. The visual indicators on these attacks are **meant to trick you**. There's a special order, regardless of the circle type.
 				- Split -> Split -> Stack -> Stack -> Stack -> Split -> Stack -> Split -> Stack -> Split
 		- Round 11 through 13 have simple mechanics again, but hit much harder than the previous rounds.
@@ -392,7 +401,7 @@ Now that you've moved forward into Mid Game, you have two new tasks you can now 
 	- Before you face off against Fanglongmon, You must face all 4 Holy Beasts.
 		- For the 4 Holy Beasts, they have all of their mechanics from their Hard Dungeon counterparts. For example, Baihumon has the 3 Towers from his boss fight.
 		- As an added mechanic, you are afflicted with 3 debuffs that correspond to their 3 subordinates that, in total, decrease your damage by 70%. Kill the 3 subordinates to dispel the debuff for all players in the area.
-			- The debuffs do come back, but the boss will respawn 
+			- The debuffs do come back eventually, but the boss will respawn his minions around the same time as well.
 	- Fanglongmon's fight takes place on a different map after defeating Qinglongmon. Unlike the 4 Holy Beasts, he does not have any field debuffs.
 	- All of Fanglongmon's mechanics are obvious and straightforward.
 	- In order to make a full set of Lv.10 Fanglongmon's Ancient Gear, you need the following:
@@ -416,6 +425,7 @@ Now that you've moved forward into Mid Game, you have two new tasks you can now 
 	- If you wish to upgrade one of the Lv.10 Ancient Gear to Ultimate Ancient Gear, you will need the corresponding piece of Divine Holy Beast gear and 20 Fanronkou
 		- Divine Holy Beast gear is the upgrade after Radiant Holy Beast Lv.5. In order to craft it, you need to acquire a Divine Crystal from FDG, which is a rare drop from Fanglongmon.
 		- The only difference between the non-Ultimate Ancient Gear and the Ultimate Ancient Gear is that Ultimate Ancient Gear does not require Number Change Stones as the numbers are always at max. However, the Spiral Mountain dungeon gear *does* require Ultimate Ancient Gear.
+	- You can craft FDG/FDG SSS passes by using 100 Yin and Yang Spirit at the Renamon NPC in D-Terminal. Yin and Yang Spirit can be farmed at any mob on the Versandi Terminal map.
 
 **Fanglongmon's Ancient Gear/Fanglongmon's Ultimate Ancient Gear is the hard bottleneck between the beginning of midgame and the rest of the game (Until the Spiral Mountain dungeons). It is highly recommended to complete your fang gear grind before pressing forward any further.**
 
@@ -424,7 +434,7 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 	- For SK -
 		- My recommended order: Susanoomon Shin -> Omegamon Alter-B -> Fanglongmon Shin
 			- Despite their placement in the game, the Tokyo-Odaiba dungeons required for the True Digivce for SK DPS are extremely poorly balanced. Without a Fang gear SSS+ or a Tank, it's almost guaranteed you will die. This makes VA and/or Vi SSS+ *invaluable* to SK DPS Progression.
-			- While it is possible to go for Omegamon Alter-B first, the vast majority of random parties look for SSS+ DPS, rather than SSS DPS. Susanoomon is also technically the most accessible as he only requires Colo Hero.
+			- While it is possible to go for Omegamon Alter-B first, the vast majority of random parties look for SSS+ DPS, rather than SSS DPS. Susanoomon Shin is also technically the most accessible as he only requires Colo Hero.
 		- Susanoomon Shin guide [here](https://digitalmastersworld.wiki.gg/wiki/Advanced_Spirit_System). Keep in mind, you will also need base [Susanoomon](https://digitalmastersworld.wiki.gg/wiki/Guide:Susanoomon) as well.
 			- Susanoomon Shin requires 90 Supreme Evolution Summon V1 Cards.
 				- Colo Hero gives 1 card per round starting on Round 10, for a total of 6 cards per successful Round 15, or 12 cards for a "Perfect" day
@@ -454,6 +464,10 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 		- True Digivice (guide [here](https://digitalmastersworld.wiki.gg/wiki/True_Vice)) requires that you farm Tokyo-Odaiba raid bosses for the materials they can drop.
 			- Instead of farming the raid bosses, you can also do the [Rainbow Bridge](https://digitalmastersworld.wiki.gg/wiki/Rainbow_Bridge) dungeon for the Powder of Evolution item. With 2 Powder of Evolution, you can craft 1 of any raid boss material.
 			- At a certain level of craft, you will need to start doing the Tokyo-Odaiba dungeons, Tokyo Tower Observatory, Fuji TV Rooftop, and Venomous Vortex.
+				- All 3 dungeons have farmable passes. These passes are craftable at the Hikari NPC on the Odaiba map of the Tokyo-Odaiba Area.
+					- You can craft Tokyo-Tower Observatory passes by using 100 Observatory Energy, which can be farmed at any mob on the Valley of Light map in the Tokyo-Odaiba Area.
+					- You can craft Fuji TV Rooftop passes by using 100 Rooftop Energy, which can be farmed at any mob on the Shibuya map in the Tokyo-Odaiba Area.
+					- You can craft Venomous Vortex passes by using 100 Venomous Energy, which can be farmed at any mob on the Tokyo Tower or Minato City maps in the Tokyo-Odaiba Area.
 				- The dungeons accessed by Pixiemon are required for True Digivice (Advanced), not the base True Digivice.
 				- As mentioned prior, it is pretty much a *requirement* to have Susanoomon Shin (or any other VA SSS+) and/or Omegamon Alter-B (or any other Vi SSS+) to complete the dungeons due to their poor balancing.
 				- If you do not want to do all of them individually, you can collect take the Tokyo Tokens gained from clearing the dungeons to the Hikari NPC in Odaiba. You can craft the dungeon materials at a cost of 10 tokens. 
@@ -462,19 +476,34 @@ Now that you've acquired Fanglongmon gear, a large portion of the game has now o
 				- The dungeon drops 2 of the required materials per clear, 1 non-Character Bound and 1 Character Bound.
 					- If you choose to keep the 1 non-Character Bound, you only need to do 50 of each dungeon, or 150 dungeon runs total. 
 					- If you choose to sell the non-Character Bound material, you will need to run each dungeon 100 times, or 300 dungeon runs total.
+					- Expert Challenge - 3 of the Novice Challenge gives 20 of the Crest of Courage items and 20 Crest of Friendship items.
+					- Expert Challenge - 4 of the Novice Challenge gives 20 of the Complete Virus items.
 				- The only prerequisite material is an open True Digivice.
 				- If you are running only free SSS+, you will need at least 3 True Digivice (Advanced).
+				- All 3 dungeons have farmable passes. These passes are craftable at the Hikari NPC on the Odaiba map of the Tokyo-Odaiba Area.
+					- You can craft Path of Bravery passes by using 100 Bravery Energy, which can be farmed at any mob on the Odaiba map in the Tokyo-Odaiba Area.
+					- You can craft Path of Friendship passes by using 100 Friendship Energy, which can be farmed at any mob on the Odaiba map in the Tokyo-Odaiba Area.
+					- You can craft Venomous Vortex [Hard] passes by using 100 Vortex Energy, which can be farmed at any mob on the Big Sight map in the Tokyo-Odaiba Area.
 	- For AA - 
 		- As an AA DPS, you gain the most damage from the D-Ark and it's upgrades, the Rage D-Ark and Uncontrollable Rage D-Ark. D-Ark Guide [here](https://digitalmastersworld.wiki.gg/wiki/D-Ark_Vice)
 		- For D-Ark Lv1 to Lv5, you must complete the [Vajramon Hard ](https://digitalmastersworld.wiki.gg/wiki/Vajramon_Dungeon_(Hard)) and [Vikaralamon Hard](https://digitalmastersworld.wiki.gg/wiki/Vikaralamon_Dungeon_(Hard)) dungeons. Each successful clear gives you the required materials for the D-Ark upgrades. Due to the balancing on these dungeons, you do not need SSS+ (and, at the time of this guide's writing, there is not a free Data AA SSS+)
 			- Each dungeon clear gives you 30 non-Character Bound materials and 5 Character Bound materials. 
 			- If you choose to sell the non-Character Bound materials, you need 72 runs of each dungeon, or 144 total runs.
 			- If you choose to keep and convert the non-Character Bound materials, you only need 62 runs of each dungeon, or 124 total runs.
+			- Advanced Challenge - 1 of the Novice Challenge gives 100 of each dungeon material.
+			- You can craft both Vikaralamon Hard passes and Vajramon Hard passes at their respective PawnChessmon B NPCs.
+				- At the PawnChessmon B NPC in Shinjuku East Area (Night), you can trade 100 Stadium Essence [Vajramon] for 1 Vajramon Hard pass. Stadium Essence [Vajramon] is farmable at any mob in both Shinjuku Western Area maps.
+				- At the PawnChessmon B NPC in Shinjuku Western Area (Day), you can trade 100 Stadium Essence [Vikaralamon] for 1 Vikaralamon Hard pass. Stadium Essence [Vikaralamon] is farmabale at any mob in both Shinjuku East Area maps.
 		- After getting BloomLordmon and acquiring the D-Ark Lv5, you'll be well equipped enough to take on the Digital Area dungeons for the Rage and Uncontrollable Rage D-Ark upgrades. **These dungeons all require a tank.**
 			- Just like Vajra Hard and Vika Hard, they drop Character Bound and non-Character Bound materials per successful clear.
 			- [Burning Battlefield](https://digitalmastersworld.wiki.gg/wiki/Burning_Battle_Field) - You will need 300 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 60 total times. If you choose to sell the non-CB items, you will need 100 total dungeon runs.
 			- [Chaotic Battlefield](https://digitalmastersworld.wiki.gg/wiki/Chaotic_Battle_Field) - You will need 150 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 30 total times. If you choose to sell the non-CB items, you will need 50 total dungeon runs.
 			- [Final Battle](https://digitalmastersworld.wiki.gg/wiki/Final_Battle) - You will need 200 total materials for both upgrades. If you keep and convert the non-CB items, you only have to run the dungeon 40 total times. If you choose to sell the non-CB items, you will need 67 total dungeon runs.
+			- Advanced Challenge - 2 of the Novice Challenge gives 20 of each dungeon material. 
+			- You can craft passes for the 3 Digital Area dungeons at the Guilmon NPC at Zhuqiaomon's Restina Area in the Digital Area.
+				- You can trade 100 Chaotic Essence for 1 Chaotic Battlefield pass. Chaotic Essence is dropped by any mob on the Wasteland Area, Wasteland Area (Night), and Cloud Area maps in the Digital Area.
+				- You can trade 100 Burning Essence for 1 Burning Battlefield pass. Burning Essence is dropped by any mob on the Forest Area, Ocean Area and Four Holy Beast Area maps in the Digital Area.
+				- You can trade 100 Final Essence for 1 Final Battle pass. Final Essence drops from any mob on the Collapsed Four Holy Beast Area, Zhuqiaomon's Resting Area, and Four Holy Beast Area (D-Reaper) maps in the Digital Area.
 - Run [Digimon Arena Extreme Mode](https://digitalmastersworld.wiki.gg/wiki/Digimon_Arena#Round_Rewards_Colosseum_Hero_Mode/Extreme_Mode) (Colo EX)
 	- Colo EX is the hardest difficulty of Colo currently out and gives the most points as well. Talk to Examon X to start the EX difficulty.
 	- EX is only 6 rounds, which are Rounds 10 to 15 of Colo Hero but more difficult. A tank is **absolutely a requirement**. The field effects of Examon X and Ordinemon are stronger than in Hero.
@@ -575,9 +604,13 @@ You have now hit the Endgame. At the time of this guide's writing, DMW's endgame
 				- @ 25% - Drops Poisons on 2 random players
 				- @ 10% - Ordinemon DPS Check
 					- AoA gets a 100% Attack buff. Kill before the tank dies.
+	- You can craft RBH passes by using 100 Warp Energy [Hard] at the Magnamon X NPC at Versandi Terminal. Warp Energy [Hard] can be farmed at any mob on the Versandi Terminal map.
 - [Marine Dragon Domain](https://digitalmastersworld.wiki.gg/wiki/Marine_Dragon_Domain) (MDG)
 	- The first of the 5 Spiral Mountain dungeons.
+	- You can craft passes for MDG by using 200 Marine Essence at the WarGreymon NPC at the Forest of the Beginning. Marine Essence is dropped by any mob on the Forest of the Beginning map of Spiral Mountain.
 - [Front Yard of Marionette Mansion](https://digitalmastersworld.wiki.gg/wiki/Front_Yard_of_Marionette_Mansion) (PDG)
 	- The second of the 5 Spiral Mountain dungeons.
+	- You can craft passes for PDG by using 200 Floras Essence at the Hikari NPC at the Forest of the Marionette. Floras Essence is dropped by any mob on the Forest of the Marionette map of Spiral Mountain.
 - [Back of the Empire](https://digitalmastersworld.wiki.gg/wiki/Back_of_the_Empire) (Mugen DG)
 	- The third of the 5 Spiral Mountain dungeons.
+	- You can craft passes for Mugen DG by using 200 Metal Essence at the Andromon NPC at the Underground City. Metal Essence is dropped by any mob on the Metal Empire and Underground City maps of Spiral Mountain.
