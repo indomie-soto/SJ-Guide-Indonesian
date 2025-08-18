@@ -369,7 +369,7 @@ Now that you've moved forward into Mid Game, you have two new tasks you can now 
 				- If you do not do this, you will get instantaneously killed by Apocalymon after a few seconds.
 		- Round 6 through 8 return to simple mechanics.
 		- Round 9, Mastemon, is pretty simple. She only has poison circles and a special mechanic at 50% and 30%.
-			- At 50%, she summons a LadyDevimon and an Angewomon mob. The Angewomon mob has extremely high HP and is unkillable, while the LadyDevimon mob is very weak and killable. Kill the LadyDevimon to receive an item that, when used on the Angewomon, instantly kills it.
+			- At 50%, she summons a LadyDevimon and an Angewomon mob. The LadyDevimon mob has extremely high HP and is unkillable, while the Angewomom mob is very weak and killable. Kill the Angewomom to receive an item that, when used on the LadyDevimon, instantly kills it.
 			- At 30%, she repeats the mechanic but summons 2 LadyDevimons/Angewomons.
 		- Round 10, Millenniummon, mainly casts different meteor circles and has a special mechanic at 30%
 			- At 30%, he will cast giant poison circles on each player. It is recommended to drop the poisons in each corner of the map to give enough space for second part of this mech.
