@@ -66,7 +66,7 @@ Inside your Starter Package should be:
 		- Reinforced - They have a chance to fail, but if they succeed, guarantee max stat.
 		- Mega - They cannot fail but do not guarantee max stat increase
 		- Mega Reinforced - They cannot fail and guarantee max stat increase
-	- That [Savers] prefix means they can only be used on Starter Digimon (Agumon (S), Lalamon, Falcomon and Gaomon). They do not work on any other digimon, including your Journey Package digimon. Unfortunately for your future second starter, you will not be able to use any other DigiClones on a Starter. In simpler terms, [Savers] DigiClones for Starter Digimon, Non-Savers DigiClones for every other Digimon. 
+	- That [Savers] suffix means they can only be used on Starter Digimon (Agumon (S), Lalamon, Falcomon and Gaomon). They do not work on any other digimon, including your Journey Package digimon. Unfortunately for your future second starter, you will not be able to use any other DigiClones on a Starter. In simpler terms, [Savers] DigiClones for Starter Digimon, Non-Savers DigiClones for every other Digimon. 
 - 2 Level 5 Raremon Digi-Eggs
 	- I highly recommend waiting to attempt to hatch these as you probably don't have any Devil hatch data.
 - 2 Mid Class Transcendence Chips for your particular Starter (Wait a minute, what's Transcendence?)
