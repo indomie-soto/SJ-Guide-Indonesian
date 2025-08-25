@@ -85,7 +85,7 @@ Inside your Journey Package should be:
 	- Most Digimon, when hatched, only have their Champion-level evolutions. Sometimes, they can have higher, depending on the suffix of the egg. Some Digimon have no evolutions unlocked at first. 
 	- For the majority of Digimon, Evoluters are used to unlock most of their evolutions. Some evolutions, especially those at higher ranks, are locked behind unique items.
 - A Gift Package corresponding to the Digimon's class
-	- This package contains a lot of items that'll help you get through the slog of early game, such as 7 day Tamer Skills, Transcendence Fruits, a Mercenary Slot Expansion, a Tamer Exchange item for one of your class's useful Tamers and more. However, a majority of these items are effectively *useless* to you until you are able to run dungeons, as that is where you will be able to make the most use out of them.
+	- This package contains a lot of items that'll help you get through the slog of early game, such as 7 day Tamer Skills, Transcendence Fruits, a Mercenary Slot Expansion, a Tamer Exchange item for one of your class's useful Tamers, a starting Digivce for your class and more. While you should still open the package to make use of some of the items, such as the Digivce and the Expansion items, a majority of these items are effectively *useless* to you until you can run dungeons, as that is where you will be able to make the most use out of them.
 - 10 Jumping Crystal [Tamer]
 	- Similar to the Digimon Jumping Crystals, they give EXP to your tamer.
 - 12 Jumping Crystal [Digimon]
